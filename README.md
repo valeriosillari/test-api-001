@@ -1,2 +1,19 @@
 # test-api-001
-a testing api json file
+
+A testing db json file with some dummy objects
+
+
+## What
+
+Easy to use as mocked object from external API.
+
+
+## Useful links for using it
+
+https://my-json-server.typicode.com/valeriosillari/test-api-001/watches
+
+https://my-json-server.typicode.com/valeriosillari/test-api-001/watches
+
+
+## Documentation
+https://my-json-server.typicode.com/
