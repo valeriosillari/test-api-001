@@ -12,7 +12,7 @@ Easy to use as mocked object from external API.
 
 https://my-json-server.typicode.com/valeriosillari/test-api-001/watches
 
-https://my-json-server.typicode.com/valeriosillari/test-api-001/watches
+https://my-json-server.typicode.com/valeriosillari/test-api-001
 
 
 ## Documentation
